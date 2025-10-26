@@ -1,2 +1,3 @@
 # Amit-Kumar-
-This is my first code 
+This is my first repository 
+
